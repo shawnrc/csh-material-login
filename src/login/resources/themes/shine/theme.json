@@ -1,0 +1,11 @@
+{
+  "id": "shine",
+  "name": "Shine",
+  "authorUsername": "shawnrc",
+  "authorName": "Shawn Chowdhury",
+  "stylesheets": [
+    "shine.css"
+  ],
+  "backgroundUrl": "shine_back.svg",
+  "customLogo": "csh_mod.svg"
+}
